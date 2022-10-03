@@ -1,6 +1,7 @@
 # Contributors
-
 - <a href="https://github.com/CODING-Enthusiast9857" target="_blank">Madhavi Sonawane</a>
+
+- <a href="https://github.com/Siddharth2812" target="_blank">Siddharth Reddy Anthireddy</a>
 
 - <a href="https://github.com/codingis4noobs2" target="_blank">Parth Shah</a>
 
@@ -22,7 +23,7 @@
 
 - <a href="https://github.com/adityahajari14" target="_blank">Aditya Hajari</a>
 
--<a href="https://github.com/Dhanshriborse" target="_blank">Dhanshri Borse</a>
+- <a href="https://github.com/Dhanshriborse" target="_blank">Dhanshri Borse</a>
 
 - <a href="https://github.com/SanketJ29" target="_blank">Sanket Jaiswal</a>
 
@@ -32,8 +33,8 @@
 
 - <a href="https://github.com/Shashwat49" target="_blank">Shashwat Shivam</a>
 
-- <a href="https://github.com/venkat-siddarth" target="_blank">Venkat Siddarth Reddy</a> 
- 
+- <a href="https://github.com/venkat-siddarth" target="_blank">Venkat Siddarth Reddy</a>
+
 - <a href="https://github.com/mrgentlemanus" target="_blank">Utkarsh Kashyap</a>
 
 - <a href="https://github.com/temirovazat" target="_blank">Temirov Azat</a>
@@ -44,7 +45,7 @@
 
 - <a href="https://github.com/devtanumisra" target="_blank">Devtanu Misra</a>
 
-- <a href="https://github.com/pushkar2112" target="_blank">Pushkar Verma</a> 
+- <a href="https://github.com/pushkar2112" target="_blank">Pushkar Verma</a>
 
 - <a href="https://github.com/backtoaldo" target="_blank">Aldo Costa Silveira</a>
 
@@ -71,12 +72,69 @@
 - <a href="https://github.com/surjendu104" target="_blank">Surjendu Pal</a>
 
 - <a href="https://github.com/thecasanovaa" target="_blank">Casanova</a>
-=======
 
 - <a href="https://github.com/beingcoder29" target="_blank">Arko</a>
 
-
 - <a href="https://github.com/vaibhavx42" target="_blank">Vaibhav Bhardwaj</a>
 
+- <a href="https://github.com/gauravgautam00" target="_blank">Gaurav Gautam</a>
 
->>>>>>> c9109630a8745bbd21a13213646655e157d07cbf
+- <a href="https://github.com/Pranauv-Kumar1803" target="_blank">Pranauv Kumar</a>
+
+- <a href="https://github.com/sulavmhrzn" target="_blank">Sulav Maharjan</a>
+
+- <a href="https://github.com/ask-1710" target="_blank">Aarthi Suresh Kumar</a>
+
+- <a href="https://github.com/ashan-tharaka" target="_blank">Ashan Tharaka</a>
+
+- <a href="https://github.com/AhmedGrati" target="_blank">Ahmed Grati</a>
+
+- <a href="https://github.com/codeswithroh" target="_blank">Rohit Purkait</a>
+
+- <a href="https://github.com/kushagra-a" target="_blank">Kushagra</a>
+
+- <a href="https://github.com/ranodeepbanerjee" target="_blank">Ranodeep Banerjee</a>
+
+- <a href="https://github.com/Justiphi" target="_blank">JustiPhi</a>
+
+- <a href="https://github.com/Isha333-web" target="_blank">Isha</a>
+
+- <a href="https://github.com/kushagra-a" target="_blank">Kushagra</a>
+
+- <a href="https://github.com/fawazsiddiqi" target="_blank">Fawaz Siddiqi</a>
+
+- <a href="https://github.com/sNishant011" target="_blank">Nishant Shrestha</a>
+
+- <a href="https://github.com/Isuruperera18" target="_blank">Isuru Perera</a>
+
+- <a href="https://github.com/Mre11i0t" target="_blank">Pavan Karthick</a>
+
+- <a href="https://github.com/Ashishatel" target="_blank">Ashish Patel</a>
+
+- <a href="https://github.com/Darainn" target="_blank">Syed Darain</a>
+
+- <a href="https://github.com/CaptIndhuja" target="_blank">Capt Indhuja</a>
+
+- <a href="https://github.com/2devyank" target="_blank">Devyank nagpal</a>
+
+- <a href="https://github.com/CoderLovely08" target="_blank">Lovely Sharma</a>
+
+- <a href="https://github.com/Manish19629" target="_blank">Manish Prajapati</a>
+
+- <a href="https://github.com/anuj-thakur-513" target="_blank">Anuj Thakur</a>
+
+- <a href="https://github.com/Moglten" target="_blank">Mohamed Saied</a>
+
+- <a href="https://github.com/grraghav120" target="_blank">Raghav Garg</a>
+
+- <a href="https://github.com/parasyadav08" target="_blank">paras yadav</a>
+
+- <a href="https://github.com/laksh1270" target="_blank">Laksha Sharma</a>
+
+- <a href="https://github.com/AyushMittal10" target="_blank">Ayush Mittal</a>
+
+- <a href="https://github.com/Ashutosh-Ray" target="_blank">Ashutosh Ray</a>
+
+- <a href="https://github.com/0x44454c" target="_blank">0x44454c</a>
+
+- <a href="https://github.com/asubodh" target="_blank">Subodh Aryal</a>
