@@ -140,3 +140,5 @@
 - <a href="https://github.com/asubodh" target="_blank">Subodh Aryal</a>
 
 - <a href="https://github.com/HarshitSachdeva" target="_blank">Harshit</a>
+
+- <a href="https://github.com/adarsh-gupta101" target="_blank">adarsh-gupta101</a>
